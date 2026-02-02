@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover, user-scalable=yes">
+    <title>Modern LinkTree</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <canvas id="particleCanvas"></canvas>
+    
+    <div class="welcome-panel" id="welcomePanel">
+        <div class="welcome-content animate__animated animate__fadeIn">
+            <div class="welcome-icon">
+                <i class="fas fa-sparkles"></i>
+            </div>
+            <h2>Welcome to My Space</h2>
+            <p>Take a moment, explore around. Glad you're here!</p>
+            <button id="welcomeCloseBtn" class="welcome-btn">Let's Go</button>
+        </div>
+    </div>
+
+    <div class="container animate__animated animate__fadeIn animate__delay-1s">
+        <div class="profile-header">
+            <div class="profile-pic-container">
+                <img src="" alt="Profile Picture" class="profile-pic" id="profilePic">
+                <div class="status-indicator"></div>
+            </div>
+            
+            <div class="profile-info">
+                <h1 class="profile-name" id="profileName">Your Name</h1>
+                <p class="profile-title">DIGITAL CREATOR</p>
+                
+                <p class="profile-bio" id="profileBio">
+                    Digital creator & content curator. Welcome to my online space where I share my passions and connect with you!
+                </p>
+            </div>
+        </div>
+        
+        <div class="links-grid-wrapper">
+            <div class="links-grid" id="linksContainer">
+            </div>
+        </div>
+        
+        <div class="music-section">
+            <div class="section-header">
+                <i class="fas fa-music"></i>
+                <h3>Now Playing</h3>
+            </div>
+            
+            <div class="music-player-compact">
+                <div class="music-album">
+                    <img src="" alt="Album Art" class="album-art" id="albumArt">
+                    <div class="music-details">
+                        <div class="song-title" id="songTitle">LoFi Dreams</div>
+                        <div class="artist" id="artist">Chillhop</div>
+                        <div class="lyrics-preview" id="lyrics">"Just breathe and let the music flow"</div>
+                    </div>
+                </div>
+                
+                <div class="music-controls-compact">
+                    <button class="play-pause" id="playPauseBtn">
+                        <i class="fas fa-play" id="playPauseIcon"></i>
+                    </button>
+                    <div class="progress-container">
+                        <div class="progress-bar" id="progressBar"></div>
+                    </div>
+                    <div class="time-display">
+                        <span id="currentTime">0:00</span> / <span id="totalTime">3:24</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Made with <i class="fas fa-heart"></i></p>
+            <p class="copyright">&copy; <span id="currentYear"></span> Modern Linktree</p>
+        </div>
+    </div>
+
+    <audio id="audioPlayer" preload="metadata"></audio>
+    <script src="script.js"></script>
+</body>
+</html>

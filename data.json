@@ -1,0 +1,116 @@
+{
+    "profile": {
+        "name": "Rikka Senpai",
+        "bio": "Welcome. My name is Aditya, also known as Rikka Senpai on social media. Please select the service that best suits your needs from the menu below.",
+        "image": "https://files.catbox.moe/3sqivl.png"
+    },
+    "links": [
+        {
+            "title": "Contact rikka",
+            "url": "https://t.me/D_mengeluarkan_anda",
+            "icon": "fab fa-telegram"
+        },
+        {
+            "title": "Saluran WhatsApp",
+            "url": "https://whatsapp.com/channel/0029Vb7HgEE4inomIuF8PB00",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "Paid Edit",
+            "url": "https://wa.me/p/9752253664843583/6283874610220",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "YouTube",
+            "url": "https://youtube.com/lucksukaloli",
+            "icon": "fab fa-youtube"
+        },
+        {
+            "title": "Website",
+            "url": "https://api-takanashi.my.id",
+            "icon": "fas fa-globe"
+        },
+        {
+            "title": "TikTok",
+            "url": "https://tiktok.com/@lucksukaloli",
+            "icon": "fab fa-tiktok"
+        }
+    ],
+    "music": {
+        "title": "Breathe",
+        "artist": "Kenzie",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739f0a63f58a10018ff322a93c",
+        "audioFile": "https://n.uguu.se/TmJNJivC.mp3",
+        "duration": 208,
+        "timeSync": [
+            { "time": 0, "text": "Intro music..." },
+            { "time": 7, "text": "Go on, go on, breathe in<br>Ayo, teruslah bernapas" },
+            { "time": 9, "text": "Eyes on the prize<br>Fokus pada tujuan" },
+            { "time": 11, "text": "I know sometimes you might fall on your way<br>Aku tahu kadang kau mungkin terjatuh di perjalanan" },
+            { "time": 14, "text": "Throw your hands up<br>Angkat tanganmu" },
+            { "time": 15, "text": "You get down when things don't fall into place<br>Kau merasa sedih saat segalanya tak berjalan baik" },
+            { "time": 18, "text": "Mad at the world, yeah, I've been there before<br>Marah pada dunia, ya, aku pernah merasakannya" },
+            { "time": 24, "text": "Lost and confused and thinking that you can't take anymore<br>Hilang dan bingung serta berpikir tak bisa bertahan lagi" },
+            { "time": 29, "text": "No, no, no, no, worry 'bout nothin'<br>Tidak, tidak, jangan khawatir tentang apapun" },
+            { "time": 31, "text": "Oh, it's all gonna be good (hey)<br>Oh, semuanya akan baik-baik saja (hey)" },
+            { "time": 33, "text": "Oh whoa-whoa-whoa, you're really something, oh<br>Oh whoa-whoa-whoa, kau benar-benar luar biasa, oh" },
+            { "time": 35, "text": "Didn't you know that you could?<br>Tidakkah kau tahu bahwa kau bisa?" },
+            { "time": 37, "text": "No, no, no, no, worry 'bout nothin'<br>Tidak, tidak, jangan khawatir tentang apapun" },
+            { "time": 40, "text": "Oh, it's all gonna be good (hey)<br>Oh, semuanya akan baik-baik saja (hey)" },
+            { "time": 43, "text": "Don't worry 'bout nothin', worry 'bout nothin'<br>Jangan khawatir tentang apapun, tentang apapun" },
+            { "time": 45, "text": "Nothin', oh, it's all gonna be good<br>Tidak ada, oh, semuanya akan baik-baik saja" },
+            { "time": 48, "text": "So breathe like you know you should<br>Jadi bernapaslah seperti yang kau tahu seharusnya" },
+            { "time": 53, "text": "Yeah, breathe 'til you've understood<br>Ya, bernapaslah sampai kau mengerti" },
+            { "time": 57, "text": "Until you're feelin' like yourself again<br>Sampai kau merasa seperti dirimu sendiri lagi" },
+            { "time": 60, "text": "Feel the sunlight on your skin<br>Rasakan sinar matahari di kulitmu" },
+            { "time": 62, "text": "Keep your heartbeat beatin'<br>Biarkan detak jantungmu terus berdetak" },
+            { "time": 65, "text": "Go on, go on, breathe in<br>Ayo, teruslah bernapas" },
+            { "time": 68, "text": "🎵🎵🎵<br>🎵🎵🎵" },
+            { "time": 74, "text": "Go on, go on, breathe in<br>Ayo, teruslah bernapas" },
+            { "time": 76, "text": "In, out<br>Masuk, keluar" },
+            { "time": 79, "text": "In, out, out, out<br>Masuk, keluar, keluar, keluar" },
+            { "time": 82, "text": "In, out<br>Masuk, keluar" },
+            { "time": 84, "text": "Go on, go on, breathe in<br>Ayo, teruslah bernapas" },
+            { "time": 88, "text": "Take a look around you here<br>Lihatlah sekelilingmu di sini" },
+            { "time": 90, "text": "Right now you remember this time<br>Saat ini kau ingat waktu ini" },
+            { "time": 93, "text": "Cause you only got the moment<br>Karena kau hanya memiliki momen ini" },
+            { "time": 95, "text": "So own it while you're alive (hey)<br>Jadi milikilah selagi kau masih hidup (hey)" },
+            { "time": 98, "text": "Taking it all in one blink at a time (time)<br>Menerima semuanya dalam satu kedipan pada satu waktu" },
+            { "time": 103, "text": "Just let it be, and you will see everything will align<br>Biarkan saja, dan kau akan lihat semuanya akan selaras" },
+            { "time": 109, "text": "No, no, no, no, worry 'bout nothin'<br>Tidak, tidak, jangan khawatir tentang apapun" },
+            { "time": 110, "text": "Oh, it's all gonna be good (hey)<br>Oh, semuanya akan baik-baik saja (hey)" },
+            { "time": 112, "text": "Oh, whoa-whoa-whoa, you're really something now<br>Oh, whoa-whoa-whoa, kau benar-benar luar biasa sekarang" },
+            { "time": 115, "text": "Didn't you know that you could? (Didn't you know that-?)<br>Tidakkah kau tahu bahwa kau bisa? (Tidakkah kau tahu-?)" },
+            { "time": 117, "text": "No, no, no, no, worry 'bout nothin'<br>Tidak, tidak, jangan khawatir tentang apapun" },
+            { "time": 120, "text": "Oh, it's all gonna be good<br>Oh, semuanya akan baik-baik saja" },
+            { "time": 122, "text": "Don't worry 'bout nothin', worry 'bout nothin'<br>Jangan khawatir tentang apapun, tentang apapun" },
+            { "time": 124, "text": "Nothin', oh it's all gonna be good<br>Tidak ada, oh semuanya akan baik-baik saja" },
+            { "time": 127, "text": "So breathe like you know you should (oh, don't ya?)<br>Jadi bernapaslah seperti yang kau tahu seharusnya (oh, bukankah begitu?)" },
+            { "time": 132, "text": "Yeah, breathe 'til you've understood (yeah, yeah-yeah)<br>Ya, bernapaslah sampai kau mengerti (ya, yeah-yeah)" },
+            { "time": 136, "text": "Until you're feelin' like yourself again<br>Sampai kau merasa seperti dirimu sendiri lagi" },
+            { "time": 139, "text": "Feel the sunlight on your skin<br>Rasakan sinar matahari di kulitmu" },
+            { "time": 141, "text": "Keep your heartbeat beatin'<br>Biarkan detak jantungmu terus berdetak" },
+            { "time": 144, "text": "Go on, go on, breathe in<br>Ayo, teruslah bernapas" },
+            { "time": 146, "text": "🎵🎵🎵<br>🎵🎵🎵" },
+            { "time": 153, "text": "Go on, go on, breathe in<br>Ayo, teruslah bernapas" },
+            { "time": 155, "text": "In, out<br>Masuk, keluar" },
+            { "time": 158, "text": "In, out, out, out<br>Masuk, keluar, keluar, keluar" },
+            { "time": 160, "text": "In, out<br>Masuk, keluar" },
+            { "time": 164, "text": "Go on, go on, breathe in<br>Ayo, teruslah bernapas" },
+            { "time": 165, "text": "Put some air to your heart, and baby, just live (baby, just live)<br>Berikan udara untuk hatimu, dan sayang, hiduplah (sayang, hiduplah)" },
+            { "time": 170, "text": "Let the moment take you, make you forget (forget)<br>Biarkan momen membawamu, membuatmu lupa (lupa)" },
+            { "time": 175, "text": "Put some air to your heart, and baby, just live (baby, just live)<br>Berikan udara untuk hatimu, dan sayang, hiduplah (sayang, hiduplah)" },
+            { "time": 180, "text": "Just breathe it in, yeah, breathe again<br>Tarik napas saja, ya, bernapas lagi" },
+            { "time": 182, "text": "Just go on, go on, breathe in<br>Teruslah, teruslah bernapas" },
+            { "time": 185, "text": "Breathe<br>Bernapas" },
+            { "time": 187, "text": "Oh, no-no, no-no, no<br>Oh, tidak-tidak, tidak-tidak, tidak" },
+            { "time": 190, "text": "Breathe in, breathe in, breathe in<br>Tarik napas, tarik napas, tarik napas" },
+            { "time": 192, "text": "Go on, go on, breathe in<br>Ayo, teruslah bernapas" },
+            { "time": 194, "text": "In, out<br>Masuk, keluar" },
+            { "time": 196, "text": "In, out, out, out<br>Masuk, keluar, keluar, keluar" },
+            { "time": 200, "text": "In, out<br>Masuk, keluar" },
+            { "time": 201, "text": "Go on, go on, breathe in<br>Ayo, teruslah bernapas" },
+            { "time": 205, "text": "outro 🎵🎵🎵<br>penutup 🎵🎵🎵" }
+        ]
+    }
+}
