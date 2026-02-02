@@ -40,7 +40,7 @@
         "title": "Breathe",
         "artist": "Kenzie",
         "albumArt": "https://i.scdn.co/image/ab67616d0000b2739f0a63f58a10018ff322a93c",
-        "audioFile": "https://n.uguu.se/TmJNJivC.mp3",
+        "audioFile": "/TmJNJivC.mp3",
         "duration": 208,
         "timeSync": [
             { "time": 0, "text": "Intro music..." },
