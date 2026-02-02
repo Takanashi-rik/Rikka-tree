@@ -34,6 +34,11 @@
             "title": "TikTok",
             "url": "https://tiktok.com/@lucksukaloli",
             "icon": "fab fa-tiktok"
+        },
+        {
+            "title": "Saweria",
+            "url": "https://saweria.co/lucksukaloli",
+            "icon": "fas fa-heart"
         }
     ],
     "music": {
